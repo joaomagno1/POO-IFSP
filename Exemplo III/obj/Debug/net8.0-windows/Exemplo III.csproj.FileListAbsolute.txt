@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\bin\Debug\net8.0-windows\Exemplo III.exe
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\bin\Debug\net8.0-windows\Exemplo III.deps.json
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\bin\Debug\net8.0-windows\Exemplo III.runtimeconfig.json
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\bin\Debug\net8.0-windows\Exemplo III.dll
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\bin\Debug\net8.0-windows\Exemplo III.pdb
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo_III.Projeto3.resources
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.AssemblyInfo.cs
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.dll
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\refint\Exemplo III.dll
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.pdb
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\Exemplo III.genruntimeconfig.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo III\obj\Debug\net8.0-windows\ref\Exemplo III.dll
