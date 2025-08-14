@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Debug\net8.0-windows\Exemplo_IV.Projeto4.resources
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Debug\net8.0-windows\Exemplo IV.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Debug\net8.0-windows\Exemplo IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Debug\net8.0-windows\Exemplo IV.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Debug\net8.0-windows\Exemplo IV.AssemblyInfo.cs
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Debug\net8.0-windows\Exemplo IV.csproj.CoreCompileInputs.cache
