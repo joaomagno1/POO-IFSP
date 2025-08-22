@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo_IX.Form1.resources
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.AssemblyInfo.cs
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.sourcelink.json
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\bin\Debug\net8.0-windows\Exemplo IX.exe
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\bin\Debug\net8.0-windows\Exemplo IX.deps.json
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\bin\Debug\net8.0-windows\Exemplo IX.runtimeconfig.json
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\bin\Debug\net8.0-windows\Exemplo IX.dll
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\bin\Debug\net8.0-windows\Exemplo IX.pdb
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.dll
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\refint\Exemplo IX.dll
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.pdb
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\Exemplo IX.genruntimeconfig.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\joaomagno1\POO-IFSP\Exemplo IX\obj\Debug\net8.0-windows\ref\Exemplo IX.dll

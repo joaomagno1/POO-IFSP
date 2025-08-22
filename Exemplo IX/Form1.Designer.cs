@@ -121,12 +121,13 @@
             txtResultado.Name = "txtResultado";
             txtResultado.Size = new Size(142, 23);
             txtResultado.TabIndex = 9;
+            txtResultado.TextChanged += txtResultado_TextChanged;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(284, 271);
             Controls.Add(txtResultado);
             Controls.Add(btnMedia);
             Controls.Add(txtNum4);
