@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\bin\Debug\net8.0-windows\Aula 0309.exe
+C:\Users\usuario\Source\Repos\joaomagno1\POO-IFSP\Aula 0309\bin\Debug\net8.0-windows\Aula 0309.deps.json
+C:\Users\usuario\Source\Repos\joaomagno1\POO-IFSP\Aula 0309\bin\Debug\net8.0-windows\Aula 0309.runtimeconfig.json
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\bin\Debug\net8.0-windows\Aula 0309.dll
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\bin\Debug\net8.0-windows\Aula 0309.pdb
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula_0309.Form1.resources
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.AssemblyInfo.cs
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.sourcelink.json
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.dll
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\refint\Aula 0309.dll
+C:\Users\usuario\source\repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.pdb
+C:\Users\usuario\Source\Repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\Aula 0309.genruntimeconfig.cache
+C:\Users\usuario\Source\Repos\joaomagno1\POO-IFSP\Aula 0309\obj\Debug\net8.0-windows\ref\Aula 0309.dll
