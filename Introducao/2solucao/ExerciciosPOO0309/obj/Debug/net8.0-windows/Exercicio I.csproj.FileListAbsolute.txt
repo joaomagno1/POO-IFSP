@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\2solucao\ExerciciosPOO0309\obj\Debug\net8.0-windows\ExerciciosPOO0309.Form1.resources
+C:\Users\usuario\source\repos\2solucao\ExerciciosPOO0309\obj\Debug\net8.0-windows\Exercicio I.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\2solucao\ExerciciosPOO0309\obj\Debug\net8.0-windows\Exercicio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\2solucao\ExerciciosPOO0309\obj\Debug\net8.0-windows\Exercicio I.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\2solucao\ExerciciosPOO0309\obj\Debug\net8.0-windows\Exercicio I.AssemblyInfo.cs
+C:\Users\usuario\source\repos\2solucao\ExerciciosPOO0309\obj\Debug\net8.0-windows\Exercicio I.csproj.CoreCompileInputs.cache
