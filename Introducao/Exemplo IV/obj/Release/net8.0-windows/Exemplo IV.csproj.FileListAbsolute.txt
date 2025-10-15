@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo_IV.Projeto4.resources
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.AssemblyInfo.cs
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\bin\Release\net8.0-windows\Exemplo IV.exe
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\bin\Release\net8.0-windows\Exemplo IV.deps.json
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\bin\Release\net8.0-windows\Exemplo IV.runtimeconfig.json
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\bin\Release\net8.0-windows\Exemplo IV.dll
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\bin\Release\net8.0-windows\Exemplo IV.pdb
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.dll
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\refint\Exemplo IV.dll
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.pdb
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\Exemplo IV.genruntimeconfig.cache
+C:\Users\usuario\source\repos\AulasPOO\Exemplo IV\obj\Release\net8.0-windows\ref\Exemplo IV.dll
