@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Overloads.Form1.resources
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Overloads\Overloads\bin\Debug\net8.0-windows\Empresa.exe
+C:\Users\usuario\source\repos\Overloads\Overloads\bin\Debug\net8.0-windows\Empresa.deps.json
+C:\Users\usuario\source\repos\Overloads\Overloads\bin\Debug\net8.0-windows\Empresa.runtimeconfig.json
+C:\Users\usuario\source\repos\Overloads\Overloads\bin\Debug\net8.0-windows\Empresa.dll
+C:\Users\usuario\source\repos\Overloads\Overloads\bin\Debug\net8.0-windows\Empresa.pdb
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.dll
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\refint\Empresa.dll
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.pdb
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\Empresa.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Overloads\Overloads\obj\Debug\net8.0-windows\ref\Empresa.dll
