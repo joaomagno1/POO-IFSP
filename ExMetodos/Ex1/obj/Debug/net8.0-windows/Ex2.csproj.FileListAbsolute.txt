@@ -1,0 +1,16 @@
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex1.Form1.resources
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\bin\Debug\net8.0-windows\Ex2.exe
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\bin\Debug\net8.0-windows\Ex2.deps.json
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\bin\Debug\net8.0-windows\Ex2.runtimeconfig.json
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\bin\Debug\net8.0-windows\Ex2.dll
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\bin\Debug\net8.0-windows\Ex2.pdb
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.dll
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\refint\Ex2.dll
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.pdb
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\Ex2.genruntimeconfig.cache
+C:\Users\usuario\Source\Repos\joaomagno1\ExMetodosPOO\Ex1\obj\Debug\net8.0-windows\ref\Ex2.dll
