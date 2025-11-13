@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\bin\Debug\net8.0-windows\CadastroPessoas.exe
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\bin\Debug\net8.0-windows\CadastroPessoas.deps.json
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\bin\Debug\net8.0-windows\CadastroPessoas.runtimeconfig.json
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\bin\Debug\net8.0-windows\CadastroPessoas.dll
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\bin\Debug\net8.0-windows\CadastroPessoas.pdb
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.Form1.resources
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.dll
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\refint\CadastroPessoas.dll
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.pdb
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\CadastroPessoas.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Aula 15\CadastroPessoas\obj\Debug\net8.0-windows\ref\CadastroPessoas.dll
