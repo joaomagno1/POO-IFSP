@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\Revisao\bin\Debug\net8.0-windows\Revisao.exe
+C:\Users\usuario\source\repos\Revisao\bin\Debug\net8.0-windows\Revisao.deps.json
+C:\Users\usuario\source\repos\Revisao\bin\Debug\net8.0-windows\Revisao.runtimeconfig.json
+C:\Users\usuario\source\repos\Revisao\bin\Debug\net8.0-windows\Revisao.dll
+C:\Users\usuario\source\repos\Revisao\bin\Debug\net8.0-windows\Revisao.pdb
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.Form1.resources
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.Properties.Resources.resources
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.dll
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\refint\Revisao.dll
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.pdb
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\Revisao.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Revisao\obj\Debug\net8.0-windows\ref\Revisao.dll
